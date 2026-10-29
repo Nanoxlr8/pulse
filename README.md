@@ -1,5 +1,42 @@
-# PULSE
+<div align="center">
 
+# ⚡ PULSE
+
+**Find any file on your Windows PC in a keystroke — and see what's slowing it down.**
+
+Press <kbd>Alt</kbd> + <kbd>F</kbd> anywhere.
+
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![SQLite FTS5](https://img.shields.io/badge/SQLite-FTS5-003B57?logo=sqlite&logoColor=white)
+![Arabic + English](https://img.shields.io/badge/search-Arabic%20%2B%20English-3fb950)
+![Local only](https://img.shields.io/badge/data-stays%20on%20your%20PC-4c9aff)
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%"><img src="docs/images/search-names.png" alt="Search by file name"><br><sub><b>Search · File names</b> — results as you type, filtered to documents.</sub></td>
+    <td width="50%"><img src="docs/images/search-content.png" alt="Search inside documents"><br><sub><b>Search · Inside documents</b> — full-text hits in PDF, Excel and Word, with the matching snippet.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/images/pc-health.png" alt="PC Health tab" width="70%"><br><sub><b>PC Health</b> — memory, CPU and disk meters, the heaviest apps, and plain-English fixes.</sub></td>
+  </tr>
+</table>
+
+<sub>Screenshots use demo data.</sub>
+
+| | Feature | |
+|---|---|---|
+| ⌨️ | **Global hotkey** | <kbd>Alt</kbd>+<kbd>F</kbd> opens (or re-focuses) the window from anywhere |
+| 🔎 | **Instant filename search** | Local SQLite index of every file, ranked as you type |
+| 📄 | **Search inside documents** | PDF, Excel, Word and text — Arabic and English |
+| 🗂️ | **Quick filters** | Documents · PDF · Excel · Word · Images · Last 30 days |
+| 🩺 | **PC Health** | RAM / CPU / disk meters and the apps eating memory |
+| 🚀 | **One-click tune-up** | *Speed up my PC* — every change backed up, undo with one click |
+| 💻 | **CLI too** | `pulse` and `pulse-tune` for the terminal |
+
+---
 
 ## Just open the app
 
